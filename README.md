@@ -5,7 +5,9 @@ For this assignment, I optimized the page better for SEO and added better access
 
 
 ### Screenshot link
-!https://github.com/codelearning2021/hw-module1/blob/162af0e3c929891d5edf7909f90293b77c087c4f/screencapture-file-Users-nejohnson-bootcamp-Modules-Homework-Module-1-Challenge-Nate-Johnson-index-html-2022-12-08-22_16_46.png(screencapture-file-Users-nejohnson-bootcamp-Modules-Homework-Module-1-Challenge-Nate-Johnson-index-html-2022-12-08-22_16_46.png)
+!https://github.com/codelearning2021/hw-module1/blob/162af0e3c929891d5edf7909f90293b77c087c4f/screencapture-file-Users-nejohnson-bootcamp-Modules-Homework-Module-1-Challenge-Nate-Johnson-index-html-2022-12-08-22_16_46.png
+
+Relative Link: (screencapture-file-Users-nejohnson-bootcamp-Modules-Homework-Module-1-Challenge-Nate-Johnson-index-html-2022-12-08-22_16_46.png)
 
 ### Link to deployed website
 
